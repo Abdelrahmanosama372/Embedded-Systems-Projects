@@ -35,3 +35,4 @@ This project implements a **Smart Elevator System** using an **ATmega32 microcon
     -  IR sensors placed on each floor detect the elevator’s current level, allowing the system to stop at the correct floor.
 
 ## Demonstration Video 
+https://github.com/user-attachments/assets/b3ec10b1-d72b-4cb5-abd3-abf7bf0bac45
